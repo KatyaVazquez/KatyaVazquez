@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Katya Vázquez
-- 👀 I’m interested in Science, Technology, Engineering, art and Mathematics 
+- 👀 I’m interested in Technology, Engineering, art and Mathematics 
 - 🌱 I’m currently learning different programming languages
 - 📫 How to reach me katyarocio34@gmail.com
 
