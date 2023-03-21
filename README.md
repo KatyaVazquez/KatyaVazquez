@@ -8,4 +8,6 @@ I am a computer technician and full stack Mern developer, with experience in fro
 ### I’m interested in technology, engineering and art.
 I am a person committed to society, I enjoy learning and helping. I am currently working on a project that aims to include more women in technology.
 
+
 - 📫 How to reach me katyarocio34@gmail.com
+- 🌱[LinkedIn](www.linkedin.com/in/katyavazquezmern)
