@@ -5,4 +5,4 @@ I am a computer technician and full stack Mern developer, with experience in fro
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,express,nodejs,py,mongodb,git,vscode,postman,github)](https://skillicons.dev)
 
-##
+- I’m interested in technology, engineering and art
