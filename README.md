@@ -4,7 +4,7 @@ I am a computer technician and full stack Mern developer, with experience in fro
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,express,nodejs,py,mongodb,git,vscode,postman,github)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,express,nodejs,py,mongodb,git,vscode,postman,github,aws,tailwind,docker)](https://skillicons.dev) 
 
 ### I’m interested in technology, engineering and art.
 I am a person committed to society, I enjoy learning and helping. I am currently working on a project that aims to include more women in technology.
